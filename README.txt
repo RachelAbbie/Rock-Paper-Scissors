@@ -1,1 +1,1 @@
-A simple Rock-Paper-Scissor Game created using JavaScript.
+A simple Rock-Paper-Scissor Game created using Vanilla JavaScript.
